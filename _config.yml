@@ -92,10 +92,13 @@ defaults:
       share: true
       related: true
       show_date: true
-    comments:
-      provider: "facebook"
-      facebook:
-        appid: # optional
-        num_posts: # 5 (default)
-        colorscheme: # "light" (default), "dark"      
-        
+
+search: true
+      
+comments:
+  provider: "facebook"
+  facebook:
+    appid: # optional
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"      
+    
