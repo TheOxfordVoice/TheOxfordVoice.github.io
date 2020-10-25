@@ -52,7 +52,7 @@ minimal_mistakes_skin: "contrast" # "air", "aqua", "contrast", "dark", "dirt", "
 markdown: kramdown
 
 locale: "en-GB"
-name: Oxford Voice
+name: The Oxford Voice
 logo: "/assets/images/logo-100.png"
 # teaser: /assets/images/default-teaser.jpg
 
