@@ -1,8 +1,11 @@
 Kate Pounds:
-  name        : "Kate Iles-Pounds"
+  name        : "Kate Pounds"
   # bio         : ""
-  # avatar      : "/assets/images/bio-photo-2.jpg"
+  avatar      : "/assets/images/authors/kate_pounds.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:kate@theoxfordvoice.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/KatePounds"
