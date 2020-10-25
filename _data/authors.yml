@@ -1,7 +1,7 @@
 Kate Pounds:
   name        : "Kate Pounds"
   # bio         : ""
-  avatar      : "/assets/images/authors/kate_pounds.jpg"
+  avatar      : "/assets/images/authors/kate-pounds.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
